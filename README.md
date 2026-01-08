@@ -18,7 +18,7 @@
 
 ## 🥇 Highlights
 * **Difficulty Level:** Hard / ICPC Standard
-* **Duration:** 5 14 Days
+* **Duration:** 14 Days
 * **Format:** 12 Problems, penalty-based scoring.
 
 ---
