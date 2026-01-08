@@ -17,8 +17,8 @@
 * `/scripts` - Python scripts used for the auto-judging pipeline.
 
 ## 🥇 Highlights
-* **Difficulty Level:** Hard / ICPC Regional Standard
-* **Duration:** 5 Hours
+* **Difficulty Level:** Hard / ICPC Standard
+* **Duration:** 5 14 Days
 * **Format:** 12 Problems, penalty-based scoring.
 
 ---
